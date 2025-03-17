@@ -2,13 +2,7 @@
 
 Question: As per below table what will be year by year grouth in Percengeta?
 
-Data Set	
-Yesr	Amount
-2019	10000
-2020	15000
-2021	25000
-2022	26000
-2025	30000
+![image](https://github.com/user-attachments/assets/5232184b-cade-44ad-8d6c-011ffb8185bd)
 
 Answer: 
 SELECT 

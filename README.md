@@ -16,6 +16,6 @@ SELECT
         ELSE (Amount - LAG(Amount) OVER (ORDER BY Year)) / LAG(Amount) OVER (ORDER BY Year) * 100 
     END AS Growth_Percentage
 FROM 
-    your_table_name
+    dataset
 ORDER BY 
     Year;

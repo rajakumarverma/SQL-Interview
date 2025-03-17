@@ -35,3 +35,14 @@ ORDER BY
 ## 3. XLOOKUP Syntax (for newer Excel versions):
 ```excel
 =XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])
+```
+
+## 4. IF Syntax:
+
+```excel
+=IF(logical_test, value_if_true, value_if_false)
+
+```
+## 5. IFS Syntax (for multiple conditions):
+```excel
+=IFS(condition1, value1, condition2, value2, ..., condition_n, value_n)

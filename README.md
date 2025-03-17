@@ -1,5 +1,5 @@
 # SQL-Interview
-Interview Question
+
 Question: As per below table what will be year by year grouth in Percengeta?
 
 Data Set	
@@ -9,7 +9,6 @@ Yesr	Amount
 2021	25000
 2022	26000
 2025	30000
-![image](https://github.com/user-attachments/assets/0bcf0203-77a2-49dc-ad99-bc3120310ae3)
 
 Answer: 
 SELECT 
